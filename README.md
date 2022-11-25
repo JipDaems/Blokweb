@@ -111,26 +111,38 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Ik ben afgelopen week ziek geweest en heb een boel gemist. Ook herkans ik dit blok nog 2 vakken, dus ben ik een beetje aan het puzzelen. 
+  Of dit nu wel/niet relevant is moet ik aan de bak en zal ik verder gaan met waar ik gebleven ben. 
+ 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Jip Daems:     
+  Omdat ik iets achterloop, zal ik graag met mijn teamgenoten willen bespreken hoe zij er nu voor staan en hoe de afgelopen week voor hen is geweest. Hoe zijn jullie gestart met het namaken   van de 1e page en zijn jullie dingen tegengekomen die belangrijk zijn om mee te nemen.
+  
+  
+  
+  Valena Herwig:      
+   
+  Ik wil bespreken over de grid van         
+  dropdown menu  feedback van mijn team   
+  en eventuele tips
 
 
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  
+  
+  Martijn Kooijman:
+ 
+  HTML Structuur presenteren
+  Werking CSS ´order´ laten zien
+  Positioning van plaatjes
+  Eventuele tips van groepsgenoten       
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+   Verslag van meeting:
+  Martijn zijn HTML-structuur zag er goed uit, hij gaf aan dit nu in CSS te willen aanpakken. Valena had al veel gedaan in CSS, maar kreeg hulp van Martijn hiermee. 
+
 
 </details>
 
